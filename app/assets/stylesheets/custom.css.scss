@@ -43,6 +43,10 @@ $navbar-default-bg: black; /*How does the navbar work? Why is there a money sign
   border-top: 1px solid #eaeaea;
   pading-top: 5px;
 }
+.article-meta-details{
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
+}
 .description {
   margin-top: 0;
 }
@@ -66,7 +70,7 @@ footer {
   color: #777;
 }
 footer a:hover {
-  color: #222;
+  //color: #222;
 }
 
 footer small {
