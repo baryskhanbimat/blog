@@ -36,6 +36,8 @@ gem 'jquery-rails'
 
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 
+gem 'rails-controller-testing'
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
